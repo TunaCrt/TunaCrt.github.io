@@ -1056,12 +1056,7 @@ header .navbar ul li a:hover{
   .footer .box-container .box .share a{
     padding: 1.2rem;
   }
-  .socials{
-    padding: 2rem;
-  }
-  .image{
-    padding: 2rem;
-  }
+  
 }
 /* footer section ends */
 
@@ -1074,6 +1069,12 @@ header .navbar ul li a:hover{
     padding-right: 0;
   }
   section{
+    padding: 2rem;
+  }
+  .socials{
+    padding: 2rem;
+  }
+  .image{
     padding: 2rem;
   }
 }
